@@ -1,0 +1,17 @@
+.cp-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.cp-container div {
+    height: 50px;
+    width: 80%;
+    margin-bottom: 16px;
+}
